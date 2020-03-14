@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://boolahcah.dmtm.hu/sitemap.xml
